@@ -16,9 +16,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/ardhycjr24/ardhycjr24/output/snake.svg)
 
 ###
 
