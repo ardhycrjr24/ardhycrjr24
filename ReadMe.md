@@ -1,4 +1,4 @@
-# 💫 ABOUT ME:
+## 💫 ABOUT ME:
 
 ## 🌐 Socials:
 
@@ -16,7 +16,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/ardhycjr24/ardhycjr24/output/snake.svg)
+
 
 ###
 
