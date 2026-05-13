@@ -1,5 +1,3 @@
-## 💫 ABOUT ME:
-
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ardhy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ardhycrjr24)
@@ -19,17 +17,6 @@
 
 
 ###
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ardhycrjr24&icon=0&color=0)](https://visitcount.itsvg.in)
