@@ -7,7 +7,7 @@
 <!-- WAVE HEADER ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ardhycrjr24&fontSize=72&fontColor=fff&fontAlignY=40&animation=twinkling&desc=Android%20Developer%20%7C%20Web%20Developer&descSize=18&descAlignY=62&descColor=fff" width="100%"/>
 
-<!-- TYPING ANIMATION (tanpa <a> wrapper, tanpa emoji di URL) -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=550&lines=Halo%2C+Saya+Ardhycrjr24!;Android+Developer+(Kotlin);Web+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
@@ -21,11 +21,31 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ardhycrjr24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardhycrjr24&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardhycrjr24&theme=tokyonight" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ardhycrjr24&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardhycrjr24&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardhycrjr24&theme=tokyonight&utcOffset=7" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhycrjr24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardhycrjr24&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak:
+
+![](https://streak-stats.demolab.com/?user=ardhycrjr24&theme=tokyonight&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=ardhycrjr24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 ---
 
