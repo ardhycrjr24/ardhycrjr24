@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🤝 Connect with Me
+### -------------------------
 
 <p>
   <a href="https://facebook.com/Ardhy" target="_blank">
@@ -58,12 +58,6 @@
 ## 🔥 GitHub Streak:
 
 ![](https://streak-stats.demolab.com/?user=ardhycrjr24&theme=tokyonight&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=ardhycrjr24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 ---
 
