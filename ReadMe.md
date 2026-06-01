@@ -1,7 +1,5 @@
 <div align="center">
 
-### -------------------------
-
 <p>
   <a href="https://facebook.com/Ardhy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Ardhy-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
