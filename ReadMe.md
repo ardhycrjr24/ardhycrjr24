@@ -1,6 +1,24 @@
-## 🌐 Socials:
+<div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ardhy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ardhycrjr24)
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://facebook.com/Ardhy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Ardhy-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ardhycrjr24" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@ardhycrjr24-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ardhycrjr24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ardhycrjr24-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ardhycrjr24&color=7F52FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -40,6 +58,12 @@
 ## 🔥 GitHub Streak:
 
 ![](https://streak-stats.demolab.com/?user=ardhycrjr24&theme=tokyonight&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=ardhycrjr24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 ---
 
