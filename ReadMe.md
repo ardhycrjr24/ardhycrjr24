@@ -43,12 +43,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=ardhycrjr24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
-
----
-
 ## 📈 Activity Graph:
 
 [![Ardhycrjr24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ardhycrjr24&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
